@@ -10,6 +10,9 @@
 
     <!--Description-->
     
+        <meta name="description" content="hexo+github踩坑记推荐两篇教程hexo从零开始到搭建完整使用hexo+github搭建免费个人博客详细教程搭配使用基本能完成hexo的搭建  
+一些小坑1.安装git bash咱大天朝就是qiang，官网下老半天下不完，无奈，用了百度网盘共享的gitGit-2.18.0-64-bit 提取">
+    
 
     <!--Author-->
     
@@ -18,7 +21,7 @@
 
     <!--Open Graph Title-->
     
-        <meta property="og:title" content="Hexo"/>
+        <meta property="og:title" content="&#39;hexo+github踩坑记&#39;"/>
     
 
     <!--Open Graph Description-->
@@ -29,7 +32,7 @@
 
     <!--Type page-->
     
-        <meta property="og:type" content="website" />
+        <meta property="og:type" content="article" />
     
 
     <!--Page Cover-->
@@ -43,7 +46,7 @@
 
     <!-- Title -->
     
-    <title>Archives: 2020/4 - Hexo</title>
+    <title>&#39;hexo+github踩坑记&#39; - Hexo</title>
 
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/css/bootstrap.min.css" integrity="sha384-y3tfxAZXuh4HwSYylfB+J125MxIs6mR5FOHamPBG064zB+AFeWH94NdvaCBm8qnd" crossorigin="anonymous">
@@ -132,9 +135,7 @@
 <div class="container">
 
     <!-- Main Content -->
-    
-
-<div class="row">
+    <div class="row">
     <div class="col-sm-12">
 
         <!--Title and Logo-->
@@ -142,34 +143,96 @@
     <div class="logo">
         <a href="/"><i class="logo-icon fa fa-cube" aria-hidden="true"></i></a>
         
-            <h1 id="main-title" class="title">2020/4</h1>
-        
     </div>
 </header>
 
-        <section class="main archive-container">
+        <section class="main">
             
-                <div class="archive-post">
-    <a href="/2020/04/02/hexo-github%E8%B8%A9%E5%9D%91%E8%AE%B0/">
-        <span class="archive-date">
-            Apr 2020
-        </span>
-        'hexo+github踩坑记'
-    </a>
+<div class="post">
+
+    <div class="post-header">
+        <h1 class="title">
+            <a href="/2020/04/02/hexo-github%E8%B8%A9%E5%9D%91%E8%AE%B0/">
+                'hexo+github踩坑记'
+            </a>
+        </h1>
+        <div class="post-info">
+            
+                <span class="date">2020-04-02</span>
+            
+            
+            
+        </div>
+    </div>
+
+    <div class="content">
+
+        <!-- Gallery -->
+        
+
+        <!-- Post Content -->
+        <h1 id="hexo-github踩坑记"><a href="#hexo-github踩坑记" class="headerlink" title="hexo+github踩坑记"></a>hexo+github踩坑记</h1><p>推荐两篇教程<br><a href="https://www.cnblogs.com/visugar/p/6821777.html" target="_blank" rel="noopener">hexo从零开始到搭建完整</a><br><a href="https://www.cnblogs.com/liuxianan/p/build-blog-website-by-hexo-github.html0" target="_blank" rel="noopener">使用hexo+github搭建免费个人博客详细教程</a><br>搭配使用基本能完成hexo的搭建  </p>
+<h2 id="一些小坑"><a href="#一些小坑" class="headerlink" title="一些小坑"></a>一些小坑</h2><h4 id="1-安装git-bash"><a href="#1-安装git-bash" class="headerlink" title="1.安装git bash"></a>1.安装git bash</h4><p>咱大天朝就是qiang，<a href="https://gitforwindows.org/" target="_blank" rel="noopener">官网</a>下老半天下不完，无奈，用了百度网盘共享的git<br><a href="https://pan.baidu.com/s/1KxgfuCrVJPZCRv276QC4PQ" target="_blank" rel="noopener">Git-2.18.0-64-bit</a> 提取码：xxac<br><a href="https://pan.baidu.com/s/1yvpe84Ddh53RKRwV7dz0MA" target="_blank" rel="noopener">Git-2.19.0-64-bit</a> 提取码：peon  </p>
+<h4 id="2-安装hexo"><a href="#2-安装hexo" class="headerlink" title="2.安装hexo"></a>2.安装hexo</h4><p>NodeJs的安装没遇到什么问题，一路next搞定<br>接下来安装hexo，<strong>npm i -g hexo</strong> +回车一气呵成，然后。。。卡住。。。  </p>
+<p>还好有淘宝，切换taobao镜像<br>npm config set registry <a href="https://registry.npm.taobao.org" target="_blank" rel="noopener">https://registry.npm.taobao.org</a>  </p>
+<p>验证是否切换成功：<br>npm config get registry</p>
+<p>输出淘宝源的地址 <a href="https://registry.npm.taobao.org/，" target="_blank" rel="noopener">https://registry.npm.taobao.org/，</a> 即切换成功。  </p>
+<p>或者用cnpm也可代替大部分npm<br>安装代码: npm install -g cnpm –registry=<a href="https://registry.npm.taobao.org" target="_blank" rel="noopener">https://registry.npm.taobao.org</a>  </p>
+<h4 id="3-初始化hexo"><a href="#3-初始化hexo" class="headerlink" title="3.初始化hexo"></a>3.初始化hexo</h4><p>创建存放博客的文件夹，cd到该文件夹下，轻轻敲下 <strong>hexo init</strong> ，然后我又不出意外的卡住了。。别慌，说不定敲敲回车它就动了呢（别忘了还有cnpm可用）<br>当打开文件夹能看到一大堆文件时，成功已经不远啦  </p>
+<h4 id="4-GitHub的相关配置"><a href="#4-GitHub的相关配置" class="headerlink" title="4.GitHub的相关配置"></a>4.GitHub的相关配置</h4><ul>
+<li><p>创建账号<br>创建好账号后，改一下用户名，毕竟要在url上显示的（捂脸，我竟然不会改名）<br>点击头像右边的小三角，在setting中设置。<br>Public profile中的name是别人看到你时的名字<br>真正修改是在account中，点击change username，仔细看提示信息，假装看懂后就可以改名了  </p>
+</li>
+<li><p>创建repo<br>点击New repository创建一个repo，名称格式为: yourgithubname.github.io<br>把最下面那个initialize的复选框勾上，点击创建  </p>
+</li>
+<li><p>配置github账户信息<br>git config –global user.name “XXXXX”<br>git config –global user.email  “<a href="mailto:xxx@xx.com">xxx@xx.com</a>“</p>
+</li>
+<li><p>创建SSH<br><strong>ssh-keygen -t rsa -C “<a href="mailto:youremail@example.com">youremail@example.com</a>“</strong><br>连续回车，然后去C盘user目录下找到.ssh\id_rsa.pub文件，用记事本复制里面的内容，放进GitHub个人设置中的SSH，title无所谓，保存搞定。<br>命令行敲下 <strong>ssh -T <a href="mailto:git@github.com">git@github.com</a></strong><br>在提示Are you sure you want to continue connecting (yes/no)?时，输入yes，如果看到看到以下信息：<br>Hi XXX! You’ve successfully authenticated, but GitHub does not provide shell access.<br>说明SSH配置成功啦！</p>
+</li>
+<li><p>_config.yml的配置<br>用记事本/编辑器打开，修改deploy部分（一般在最下面）<br>我采用的是下面这种配置方式<br>deploy:<br>type: git<br>repository: <a href="mailto:git@github.com">git@github.com</a>:yourgithubname/yourgithubname.github.io.git<br>branch: master<br>(注意，键值后要有空格)  </p>
+</li>
+<li><p>安装一些插件<br><strong>npm install hexo-deployer-git –save</strong><br><strong>npm i hexo-server</strong><br>然后按顺序执行以下命令<br><strong>hexo clean</strong><br><strong>hexo generate</strong><br><strong>hexo server</strong><br>应该没啥了，打开localhost:4000就能看见本地的博客啦  </p>
+</li>
+</ul>
+<blockquote>
+<p>常用命令  </p>
+<blockquote>
+<p>hexo new “postName” #新建文章<br>hexo new page “pageName” #新建页面<br>hexo generate #生成静态页面至public目录<br>hexo server #开启预览访问端口（默认端口4000，’ctrl + c’关闭server）<br>hexo deploy #部署到GitHub<br>hexo help  # 查看帮助<br>hexo version  #查看Hexo的版本  </p>
+</blockquote>
+</blockquote>
+<blockquote>
+<p>缩写    </p>
+<blockquote>
+<p>hexo n == hexo new<br>hexo g == hexo generate<br>hexo s == hexo server<br>hexo d == hexo deploy  </p>
+</blockquote>
+</blockquote>
+<blockquote>
+<p>组合  </p>
+<blockquote>
+<p>hexo s -g #生成并本地预览<br>hexo d -g #生成并上传  </p>
+</blockquote>
+</blockquote>
+<p>直接照着命令上传GitHub就行了，在浏览器中输入 <a href="http://yourgithubname.github.io" target="_blank" rel="noopener">http://yourgithubname.github.io</a> 就能看见你的博客了，吐槽一下GitHub。。真真卡成dog  </p>
+<h4 id="写博客"><a href="#写博客" class="headerlink" title="写博客"></a>写博客</h4><p>用命令创建或者直接在source/_posts下创建md格式文件（有格式要求，最好还是用命令），然后就能用markdown写博客了  </p>
+<p>我使用的是vscode，安装了两个插件 Markdown All in one(组合包)和Markdown Preview Github Styling(本地预览Markdown文件最终在Github Pages中显示的效果)  </p>
+<p><a href="https://www.runoob.com/markdown/md-tutorial.html" target="_blank" rel="noopener">Markdown教程</a>  </p>
+<h4 id="博客主题"><a href="#博客主题" class="headerlink" title="博客主题"></a>博客主题</h4><p>差点忘了还有主题这码事，可以用git直接下载到themes中，但。。git总是给我惊喜，所以我就直接去官网下载压缩包，解压到themes中，下载好后别忘了在_config.yml中修改主题，即theme：主题名。  </p>
+<p>同志们加油！</p>
+
+    </div>
+
+    
+
+    
+
+    <!-- Comments -->
+    
+
 </div>
-            
-                <div class="archive-post">
-    <a href="/2020/04/02/hello-world/">
-        <span class="archive-date">
-            Apr 2020
-        </span>
-        Hello World
-    </a>
-</div>
-            
         </section>
+
     </div>
 </div>
+
 
 </div>
 
