@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://igta24.github.io/"/>
-  <updated>2020-07-22T10:53:08.157Z</updated>
+  <updated>2020-07-22T10:57:37.119Z</updated>
   <id>https://igta24.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://igta24.github.io/2020/07/22/phpMyAdmin%E6%96%87%E4%BB%B6%E5%8C%85%E5%90%AB%E6%BC%8F%E6%B4%9E/"/>
     <id>https://igta24.github.io/2020/07/22/phpMyAdmin%E6%96%87%E4%BB%B6%E5%8C%85%E5%90%AB%E6%BC%8F%E6%B4%9E/</id>
     <published>2020-07-22T10:16:14.000Z</published>
-    <updated>2020-07-22T10:53:08.157Z</updated>
+    <updated>2020-07-22T10:57:37.119Z</updated>
     
     <summary type="html">
     
@@ -29,7 +29,7 @@
       
         
         
-          &lt;h1 id=&quot;CVE-2018-12613-phpMyAdmin文件包含漏洞&quot;&gt;&lt;a href=&quot;#CVE-2018-12613-phpMyAdmin文件包含漏洞&quot; class=&quot;headerlink&quot;
+          &lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;h2 id=&quot;CVE-2018-12613-phpMyAdmin文件包含漏洞&quot;&gt;&lt;a
         
       
     
