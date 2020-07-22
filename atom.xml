@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://igta24.github.io/"/>
-  <updated>2020-05-27T15:31:46.167Z</updated>
+  <updated>2020-07-22T10:53:08.157Z</updated>
   <id>https://igta24.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>phpMyAdmin文件包含漏洞</title>
+    <link href="https://igta24.github.io/2020/07/22/phpMyAdmin%E6%96%87%E4%BB%B6%E5%8C%85%E5%90%AB%E6%BC%8F%E6%B4%9E/"/>
+    <id>https://igta24.github.io/2020/07/22/phpMyAdmin%E6%96%87%E4%BB%B6%E5%8C%85%E5%90%AB%E6%BC%8F%E6%B4%9E/</id>
+    <published>2020-07-22T10:16:14.000Z</published>
+    <updated>2020-07-22T10:53:08.157Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;CVE-2018-12613-phpMyAdmin文件包含漏洞&quot;&gt;&lt;a href=&quot;#CVE-2018-12613-phpMyAdmin文件包含漏洞&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="漏洞复现" scheme="https://igta24.github.io/tags/%E6%BC%8F%E6%B4%9E%E5%A4%8D%E7%8E%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>利用Cobalt strike实现邮件钓鱼攻击</title>
