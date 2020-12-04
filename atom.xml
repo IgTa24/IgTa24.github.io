@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://igta24.github.io/"/>
-  <updated>2020-10-10T11:43:29.530Z</updated>
+  <updated>2020-12-04T07:50:51.931Z</updated>
   <id>https://igta24.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>vulnhub系列-渗透测试</title>
+    <link href="https://igta24.github.io/2020/12/04/vulnhub%E7%B3%BB%E5%88%97-%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95/"/>
+    <id>https://igta24.github.io/2020/12/04/vulnhub%E7%B3%BB%E5%88%97-%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95/</id>
+    <published>2020-12-04T06:19:00.000Z</published>
+    <updated>2020-12-04T07:50:51.931Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;LAMPSecurity-CTF4&quot;&gt;&lt;a href=&quot;#LAMPSecurity-CTF4&quot; class=&quot;headerlink&quot; title=&quot;LAMPSecurity: CTF4&quot;&gt;&lt;/a&gt;LAMPSecurity:
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="渗透" scheme="https://igta24.github.io/tags/%E6%B8%97%E9%80%8F/"/>
+    
+  </entry>
   
   <entry>
     <title>Flask SSTI（模板注入）</title>
