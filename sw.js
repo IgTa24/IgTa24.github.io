@@ -10,7 +10,7 @@
 
 'use strict';
 
-var precacheConfig = [["/about/index.html","7284442a2b4f32de9804a21259e52799"],["/archives/index.html","1d23a12fd5d9d34d3b8ecef0b4f1b5e0"],["/img/404.jpg","4ef3cfb882b6dd4128da4c8745e9a507"],["/img/a.jpg","dce4b2c6fe3c36d9c9e8059f64f4d506"],["/img/algolia.svg","fd40b88ac5370a5353a50b8175c1f367"],["/img/avatar.png","c291715561b777d5601df42b8d8fc791"],["/img/b.jpg","8fb7d10986b67a1dcba885f50a5de3a9"],["/img/c.jpg","839caefb4d66b4f9070200502c1458f4"],["/img/comment_bg.png","34a79bf208a1c3bee9d6e491a00cd369"],["/img/favicon.ico","fd6723bb088e54b60d4807ec4991c5f7"],["/img/friend_404.gif","68af0be9d22722e74665ef44dd532ba8"],["/img/icp.png","6e26aed5ced63bc60524cc736611d39e"],["/img/index.jpg","028634b477a4e1ec57f064eb49657d92"],["/img/loading.gif","d1cf8d9ccb6a2b3514a7d14332035a3c"],["/img/post.jpg","df034258fd8245b158377bf55b7fa5ec"],["/img/post_loadding.svg","2901bcb74c0f032ed139676618432304"],["/img/wechat.jpg","631e28d4d244eb00e0375113a4abdf10"],["/index.html","e9378337c4a1bf45cef1be590f389418"],["/js/main.js","0cd0cf0fdb710ba9b7d96caa04c2dfaf"],["/js/tw_cn.js","de2abf47a3e2ff88c167a78a3256a0cd"],["/js/utils.js","23b2d649db443d85eb9f99bd0aea196b"]];
+var precacheConfig = [];
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');
 var firstRegister = 1; // 默认1是首次安装SW， 0是SW更新
 
