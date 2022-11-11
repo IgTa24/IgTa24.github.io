@@ -3,10 +3,10 @@
   <title>IgTa&#39;s Blog</title>
   
   
-  <link href="/atom.xml" rel="self"/>
+  <link href="https://igta24.github.io/atom.xml" rel="self"/>
   
   <link href="https://igta24.github.io/"/>
-  <updated>2022-11-11T12:57:20.034Z</updated>
+  <updated>2022-11-11T16:01:57.110Z</updated>
   <id>https://igta24.github.io/</id>
   
   <author>
@@ -21,23 +21,15 @@
     <link href="https://igta24.github.io/2022/11/11/Java%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96-3-%E4%BD%BF%E7%94%A8LazyMap%E6%9E%84%E9%80%A0CC1%E9%93%BE/"/>
     <id>https://igta24.github.io/2022/11/11/Java%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96-3-%E4%BD%BF%E7%94%A8LazyMap%E6%9E%84%E9%80%A0CC1%E9%93%BE/</id>
     <published>2022-11-11T08:33:58.000Z</published>
-    <updated>2022-11-11T12:57:20.034Z</updated>
+    <updated>2022-11-11T16:01:57.110Z</updated>
     
-    <summary type="html">
     
-      
-      
-        
-        
-          &lt;h1 id=&quot;Java反序列化-3-使用LazyMap构造CC1链&quot;&gt;&lt;a href=&quot;#Java反序列化-3-使用LazyMap构造CC1链&quot; class=&quot;headerlink&quot;
-        
-      
-    
-    </summary>
+    <summary type="html">Java反序列化学习(3)</summary>
     
     
     
-      <category term="Java安全" scheme="https://igta24.github.io/tags/Java%E5%AE%89%E5%85%A8/"/>
+    
+    <category term="Java安全" scheme="https://igta24.github.io/tags/Java%E5%AE%89%E5%85%A8/"/>
     
   </entry>
   
@@ -46,23 +38,15 @@
     <link href="https://igta24.github.io/2022/11/03/Java%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96-2-CC1%E9%93%BE%E5%88%86%E6%9E%90/"/>
     <id>https://igta24.github.io/2022/11/03/Java%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96-2-CC1%E9%93%BE%E5%88%86%E6%9E%90/</id>
     <published>2022-11-03T13:04:13.000Z</published>
-    <updated>2022-11-11T08:09:55.602Z</updated>
+    <updated>2022-11-11T16:02:29.724Z</updated>
     
-    <summary type="html">
     
-      
-      
-        
-        
-          &lt;h1 id=&quot;Java反序列化-2-CC1链分析&quot;&gt;&lt;a href=&quot;#Java反序列化-2-CC1链分析&quot; class=&quot;headerlink&quot; title=&quot;Java反序列化(2)-CC1链分析&quot;&gt;&lt;/a&gt;Java反序列化(2)-CC1链分析&lt;/h1&gt;&lt;h2
-        
-      
-    
-    </summary>
+    <summary type="html">Java反序列化学习(2)</summary>
     
     
     
-      <category term="Java安全" scheme="https://igta24.github.io/tags/Java%E5%AE%89%E5%85%A8/"/>
+    
+    <category term="Java安全" scheme="https://igta24.github.io/tags/Java%E5%AE%89%E5%85%A8/"/>
     
   </entry>
   
@@ -71,23 +55,15 @@
     <link href="https://igta24.github.io/2022/10/30/Java%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96-1-URLDNS%E9%93%BE%E5%88%86%E6%9E%90/"/>
     <id>https://igta24.github.io/2022/10/30/Java%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96-1-URLDNS%E9%93%BE%E5%88%86%E6%9E%90/</id>
     <published>2022-10-30T09:46:41.000Z</published>
-    <updated>2022-11-02T08:36:21.309Z</updated>
+    <updated>2022-11-11T16:02:37.629Z</updated>
     
-    <summary type="html">
     
-      
-      
-        
-        
-          &lt;h1 id=&quot;Java反序列化-1-URLDNS链分析&quot;&gt;&lt;a href=&quot;#Java反序列化-1-URLDNS链分析&quot; class=&quot;headerlink&quot;
-        
-      
-    
-    </summary>
+    <summary type="html">Java反序列化学习(1)</summary>
     
     
     
-      <category term="Java安全" scheme="https://igta24.github.io/tags/Java%E5%AE%89%E5%85%A8/"/>
+    
+    <category term="Java安全" scheme="https://igta24.github.io/tags/Java%E5%AE%89%E5%85%A8/"/>
     
   </entry>
   
@@ -98,21 +74,19 @@
     <published>2020-12-04T06:19:00.000Z</published>
     <updated>2020-12-04T07:50:51.931Z</updated>
     
-    <summary type="html">
     
       
       
         
         
-          &lt;h1 id=&quot;LAMPSecurity-CTF4&quot;&gt;&lt;a href=&quot;#LAMPSecurity-CTF4&quot; class=&quot;headerlink&quot; title=&quot;LAMPSecurity: CTF4&quot;&gt;&lt;/a&gt;LAMPSecurity:
+    <summary type="html">&lt;h1 id=&quot;LAMPSecurity-CTF4&quot;&gt;&lt;a href=&quot;#LAMPSecurity-CTF4&quot; class=&quot;headerlink&quot; title=&quot;LAMPSecurity: CTF4&quot;&gt;&lt;/a&gt;LAMPSecurity:</summary>
         
       
     
-    </summary>
     
     
     
-      <category term="渗透" scheme="https://igta24.github.io/tags/%E6%B8%97%E9%80%8F/"/>
+    <category term="渗透" scheme="https://igta24.github.io/tags/%E6%B8%97%E9%80%8F/"/>
     
   </entry>
   
@@ -123,21 +97,19 @@
     <published>2020-10-10T08:02:35.000Z</published>
     <updated>2020-10-10T11:43:29.530Z</updated>
     
-    <summary type="html">
     
       
       
         
         
-          &lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;Flask是一个使用 Python 编写的轻量级 Web 应用框架，其模板引擎使用的是 Jinja2
+    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;Flask是一个使用 Python 编写的轻量级 Web 应用框架，其模板引擎使用的是 Jinja2</summary>
         
       
     
-    </summary>
     
     
     
-      <category term="CTF" scheme="https://igta24.github.io/tags/CTF/"/>
+    <category term="CTF" scheme="https://igta24.github.io/tags/CTF/"/>
     
   </entry>
   
@@ -148,21 +120,19 @@
     <published>2020-07-22T10:16:14.000Z</published>
     <updated>2020-07-22T11:03:20.979Z</updated>
     
-    <summary type="html">
     
       
       
         
         
-          &lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;h2 id=&quot;CVE-2018-12613-phpMyAdmin文件包含漏洞&quot;&gt;&lt;a
+    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;h2 id=&quot;CVE-2018-12613-phpMyAdmin文件包含漏洞&quot;&gt;&lt;a</summary>
         
       
     
-    </summary>
     
     
     
-      <category term="漏洞复现" scheme="https://igta24.github.io/tags/%E6%BC%8F%E6%B4%9E%E5%A4%8D%E7%8E%B0/"/>
+    <category term="漏洞复现" scheme="https://igta24.github.io/tags/%E6%BC%8F%E6%B4%9E%E5%A4%8D%E7%8E%B0/"/>
     
   </entry>
   
@@ -173,21 +143,19 @@
     <published>2020-05-26T14:41:02.000Z</published>
     <updated>2020-05-27T15:31:46.167Z</updated>
     
-    <summary type="html">
     
       
       
         
         
-          &lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;h2 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot;
+    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;h2 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot;</summary>
         
       
     
-    </summary>
     
     
     
-      <category term="渗透" scheme="https://igta24.github.io/tags/%E6%B8%97%E9%80%8F/"/>
+    <category term="渗透" scheme="https://igta24.github.io/tags/%E6%B8%97%E9%80%8F/"/>
     
   </entry>
   
@@ -198,21 +166,19 @@
     <published>2020-05-11T07:43:02.000Z</published>
     <updated>2020-05-31T10:45:47.435Z</updated>
     
-    <summary type="html">
     
       
       
         
         
-          &lt;p&gt;简介：&lt;br&gt;Pikachu是一个带有漏洞的Web应用系统，包含了常见的web安全漏洞。&lt;br&gt;下载链接：&lt;a href=&quot;https://github.com/zhuifengshaonianhanlu/pikachu&quot; target=&quot;_blank&quot;
+    <summary type="html">&lt;p&gt;简介：&lt;br&gt;Pikachu是一个带有漏洞的Web应用系统，包含了常见的web安全漏洞。&lt;br&gt;下载链接：&lt;a</summary>
         
       
     
-    </summary>
     
     
     
-      <category term="CTF" scheme="https://igta24.github.io/tags/CTF/"/>
+    <category term="CTF" scheme="https://igta24.github.io/tags/CTF/"/>
     
   </entry>
   
@@ -223,21 +189,19 @@
     <published>2020-05-04T04:47:44.000Z</published>
     <updated>2020-07-13T13:06:43.945Z</updated>
     
-    <summary type="html">
     
       
       
         
         
-          &lt;h1 id=&quot;Bugku&quot;&gt;&lt;a href=&quot;#Bugku&quot; class=&quot;headerlink&quot; title=&quot;Bugku&quot;&gt;&lt;/a&gt;Bugku&lt;/h1&gt;&lt;h2 id=&quot;矛盾&quot;&gt;&lt;a href=&quot;#矛盾&quot; class=&quot;headerlink&quot;
+    <summary type="html">&lt;h1 id=&quot;Bugku&quot;&gt;&lt;a href=&quot;#Bugku&quot; class=&quot;headerlink&quot; title=&quot;Bugku&quot;&gt;&lt;/a&gt;Bugku&lt;/h1&gt;&lt;h2 id=&quot;矛盾&quot;&gt;&lt;a href=&quot;#矛盾&quot; class=&quot;headerlink&quot;</summary>
         
       
     
-    </summary>
     
     
     
-      <category term="CTF" scheme="https://igta24.github.io/tags/CTF/"/>
+    <category term="CTF" scheme="https://igta24.github.io/tags/CTF/"/>
     
   </entry>
   
@@ -248,15 +212,13 @@
     <published>2020-04-27T12:40:18.000Z</published>
     <updated>2020-05-09T07:52:27.369Z</updated>
     
-    <summary type="html">
     
-      ubuntu20.04 LAMP docker 安装
-    
-    </summary>
+    <summary type="html">ubuntu20.04 LAMP docker 安装</summary>
     
     
     
-      <category term="安装教程" scheme="https://igta24.github.io/tags/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="安装教程" scheme="https://igta24.github.io/tags/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/"/>
     
   </entry>
   
@@ -267,21 +229,19 @@
     <published>2020-04-15T08:46:44.000Z</published>
     <updated>2020-04-16T07:20:21.690Z</updated>
     
-    <summary type="html">
     
       
       
         
         
-          &lt;h1 id=&quot;安装AWVS&quot;&gt;&lt;a href=&quot;#安装AWVS&quot; class=&quot;headerlink&quot; title=&quot;安装AWVS&quot;&gt;&lt;/a&gt;安装AWVS&lt;/h1&gt;&lt;h2 id=&quot;配置阿里云更新源&quot;&gt;&lt;a href=&quot;#配置阿里云更新源&quot; class=&quot;headerlink&quot;
+    <summary type="html">&lt;h1 id=&quot;安装AWVS&quot;&gt;&lt;a href=&quot;#安装AWVS&quot; class=&quot;headerlink&quot; title=&quot;安装AWVS&quot;&gt;&lt;/a&gt;安装AWVS&lt;/h1&gt;&lt;h2 id=&quot;配置阿里云更新源&quot;&gt;&lt;a href=&quot;#配置阿里云更新源&quot; class=&quot;headerlink&quot;</summary>
         
       
     
-    </summary>
     
     
     
-      <category term="安装教程" scheme="https://igta24.github.io/tags/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/"/>
+    <category term="安装教程" scheme="https://igta24.github.io/tags/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/"/>
     
   </entry>
   
@@ -292,15 +252,13 @@
     <published>2020-04-14T10:08:49.000Z</published>
     <updated>2020-10-07T17:13:12.337Z</updated>
     
-    <summary type="html">
     
-      使用kali进攻靶机
-    
-    </summary>
+    <summary type="html">使用kali进攻靶机</summary>
     
     
     
-      <category term="渗透" scheme="https://igta24.github.io/tags/%E6%B8%97%E9%80%8F/"/>
+    
+    <category term="渗透" scheme="https://igta24.github.io/tags/%E6%B8%97%E9%80%8F/"/>
     
   </entry>
   
@@ -311,15 +269,13 @@
     <published>2020-04-02T02:20:35.000Z</published>
     <updated>2020-10-14T09:52:57.143Z</updated>
     
-    <summary type="html">
     
-      hexo+github安装教程
-    
-    </summary>
+    <summary type="html">hexo+github安装教程</summary>
     
     
     
-      <category term="安装教程" scheme="https://igta24.github.io/tags/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="安装教程" scheme="https://igta24.github.io/tags/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/"/>
     
   </entry>
   
@@ -330,21 +286,19 @@
     <published>2020-01-26T02:24:08.000Z</published>
     <updated>2020-04-02T15:55:43.008Z</updated>
     
-    <summary type="html">
     
       
       
         
         
-          &lt;h1 id=&quot;24-8&quot;&gt;&lt;a href=&quot;#24-8&quot; class=&quot;headerlink&quot; title=&quot;24 / 8&quot;&gt;&lt;/a&gt;24 /
+    <summary type="html">&lt;h1 id=&quot;24-x2F-8&quot;&gt;&lt;a href=&quot;#24-x2F-8&quot; class=&quot;headerlink&quot; title=&quot;24 &amp;#x2F; 8&quot;&gt;&lt;/a&gt;24 &amp;#x2F;</summary>
         
       
     
-    </summary>
     
     
     
-      <category term="Kobe" scheme="https://igta24.github.io/tags/Kobe/"/>
+    <category term="Kobe" scheme="https://igta24.github.io/tags/Kobe/"/>
     
   </entry>
   
