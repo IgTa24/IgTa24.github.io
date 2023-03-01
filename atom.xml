@@ -6,7 +6,7 @@
   <link href="https://igta24.github.io/atom.xml" rel="self"/>
   
   <link href="https://igta24.github.io/"/>
-  <updated>2022-12-21T16:01:16.510Z</updated>
+  <updated>2023-03-01T13:11:58.939Z</updated>
   <id>https://igta24.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Java安全-JNDI注入</title>
+    <link href="https://igta24.github.io/2023/02/28/Java%E5%AE%89%E5%85%A8-JNDI%E6%B3%A8%E5%85%A5/"/>
+    <id>https://igta24.github.io/2023/02/28/Java%E5%AE%89%E5%85%A8-JNDI%E6%B3%A8%E5%85%A5/</id>
+    <published>2023-02-28T09:11:33.000Z</published>
+    <updated>2023-03-01T13:11:58.939Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Java安全-JNDI注入&quot;&gt;&lt;a href=&quot;#Java安全-JNDI注入&quot; class=&quot;headerlink&quot; title=&quot;Java安全-JNDI注入&quot;&gt;&lt;/a&gt;Java安全-JNDI注入&lt;/h1&gt;&lt;h2 id=&quot;JNDI简介&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="Java安全" scheme="https://igta24.github.io/categories/Java%E5%AE%89%E5%85%A8/"/>
+    
+    
+    <category term="Java安全" scheme="https://igta24.github.io/tags/Java%E5%AE%89%E5%85%A8/"/>
+    
+  </entry>
   
   <entry>
     <title>RMI反序列化(1)-调试分析源码</title>
@@ -458,25 +483,6 @@
     
     
     <category term="渗透" scheme="https://igta24.github.io/tags/%E6%B8%97%E9%80%8F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>hexo+github 部署</title>
-    <link href="https://igta24.github.io/2020/04/02/hexo-github-%E9%83%A8%E7%BD%B2/"/>
-    <id>https://igta24.github.io/2020/04/02/hexo-github-%E9%83%A8%E7%BD%B2/</id>
-    <published>2020-04-02T02:20:35.000Z</published>
-    <updated>2022-11-25T14:30:44.707Z</updated>
-    
-    
-    <summary type="html">hexo+github安装教程</summary>
-    
-    
-    
-    <category term="安装教程" scheme="https://igta24.github.io/categories/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/"/>
-    
-    
-    <category term="安装教程" scheme="https://igta24.github.io/tags/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/"/>
     
   </entry>
   
